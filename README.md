@@ -1,7 +1,7 @@
-# CompensaTrends-Project
+# Salary-Project
 Salary Data Analysis
-- CompensaTrends involved analyzing salary data to uncover trends across the data science industry and factors influencing compensation disparities.
-- This salary project focused on salary data analysis. This project demonstrated my proficiency in data analysis and the ability to extract actionable insights from compensation data.
+- This project involved analyzing salary data specifically from the data science world to uncover trends in this industry and factors influencing compensation disparities.
+- This project demonstrates my proficiency in data analysis and the ability to extract actionable insights from salary data.
 
 Data Source = 
 Kaggle.com
